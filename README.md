@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**Andres-debug/Andres-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado desarrollador de software de Medellin Colombia. Me encanta programar, aprender nuevas tecnologías y compartir mi conocimiento con otros.
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- NestJs
+- React Native Expo
+- NextJs
+
+## 👯 Estoy buscando colaborar en
+
+- Proyectos Open Source
+- Apps Moviles
+- Paginas Web
+
+
+## 💬 Pregúntame sobre
+
+- User Experience
+- Ingenieria de Software
+- Agilismo
+
+## 📫 Cómo contactarme
+
+- LinkedIn: [Andres Felipe Diaz Monsalve]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/andr%C3%A9s-felipe-diaz-monsalve-54407b1a3/))
+
+## 😄 Pronombres
+
+- Pipe
+- Andrew
+
+
+## 📊 Mis estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres_debug&show_icons=true)
