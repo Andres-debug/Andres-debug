@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Andres Diaz 👋
 
 Soy un apasionado desarrollador de software de Medellin Colombia. Me encanta programar, aprender nuevas tecnologías y compartir mi conocimiento con otros.
 
@@ -25,7 +25,7 @@ Soy un apasionado desarrollador de software de Medellin Colombia. Me encanta pro
 
 - LinkedIn: [Andres Felipe Diaz Monsalve]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/andr%C3%A9s-felipe-diaz-monsalve-54407b1a3/))
 
-## 😄 Pronombres
+## 😄 Apodos
 
 - Pipe
 - Andrew
@@ -33,4 +33,4 @@ Soy un apasionado desarrollador de software de Medellin Colombia. Me encanta pro
 
 ## 📊 Mis estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres_debug&show_icons=true)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres-debug&show_icons=true)
