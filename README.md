@@ -12,7 +12,7 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 ## 🌱 I'm proficient in
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,express,js,ts,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,express,js,ts,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,figma&perline=8" />
  </a>
 </p>
 
