@@ -1,36 +1,42 @@
-# Hola, soy Andres Diaz 👋
+# Hello, I'm Andres Diaz 👋
 
-Soy un apasionado desarrollador de software de Medellin Colombia. Me encanta programar, aprender nuevas tecnologías y compartir mi conocimiento con otros.
+I'm a passionate software developer from Medellin, Colombia. I love programming, learning new technologies, and sharing my knowledge with others.
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 Currently learning
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,prisma&perline=8" />
+ </a>
+</p>
 
-- NestJs
-- React Native Expo
-- NextJs
+## 🌱 I'm proficient in
+<p align="center">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,express,js,ts,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,&perline=8" />
+ </a>
+</p>
 
-## 👯 Estoy buscando colaborar en
+## 👯 I'm looking to collaborate on
 
-- Proyectos Open Source
-- Apps Moviles
-- Paginas Web
+- Open Source Projects
+- Mobile Apps
+- Web Pages
 
-
-## 💬 Pregúntame sobre
+## 💬 Ask me about
 
 - User Experience
-- Ingenieria de Software
-- Agilismo
+- Software Engineering
+- Agile Methodologies
 
-## 📫 Cómo contactarme
+## 📫 How to reach me
 
-- LinkedIn: [Andres Felipe Diaz Monsalve]([https://www.linkedin.com/in/tu-nombre](https://www.linkedin.com/in/andr%C3%A9s-felipe-diaz-monsalve-54407b1a3/))
+- LinkedIn: [Andres Felipe Diaz Monsalve](https://www.linkedin.com/in/andr%C3%A9s-felipe-diaz-monsalve-54407b1a3/)
 
-## 😄 Apodos
+## 😄 Nicknames
 
 - Pipe
 - Andrew
 
+## 📊 My GitHub stats
 
-## 📊 Mis estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Andres-debug&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-debug&show_icons=true)
