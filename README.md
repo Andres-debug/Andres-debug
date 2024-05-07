@@ -40,3 +40,5 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 ## 📊 My GitHub stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-debug&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-debug&langs_count=8)
