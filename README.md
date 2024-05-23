@@ -5,14 +5,14 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 ## 🌱 Currently learning
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,prisma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nestjs,prisma,threejs&perline=8" />
  </a>
 </p>
 
 ## 🌱 I'm proficient in
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,express,linux,js,ts,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,linux,js,ts,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,figma&perline=8" />
  </a>
 </p>
 
