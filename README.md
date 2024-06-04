@@ -5,7 +5,7 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 ## 🌱 Currently learning
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,prisma,threejs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nestjs,prisma,threejs,astro&perline=8" />
  </a>
 </p>
 
