@@ -31,6 +31,7 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 ## 📫 How to reach me
 
 - LinkedIn: [Andres Felipe Diaz Monsalve](https://www.linkedin.com/in/andr%C3%A9s-felipe-diaz-monsalve-54407b1a3/)
+- Youtube: [Andres-debug](https://www.youtube.com/@AndresDebug-lc1cu)
 
 ## 😄 Nicknames
 
