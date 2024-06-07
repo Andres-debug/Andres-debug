@@ -27,6 +27,7 @@ I'm a passionate software developer from Medellin, Colombia. I love programming,
 - User Experience
 - Software Engineering
 - Agile Methodologies
+- Scrum
 
 ## 📫 How to reach me
 
