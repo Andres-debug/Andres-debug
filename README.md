@@ -74,7 +74,7 @@ Feel free to connect with me on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andres-debug&theme=vue-dark&hide_border=true" alt="Andres-debug's Streak" />
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Andres-debug&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
