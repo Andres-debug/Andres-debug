@@ -34,7 +34,7 @@ I'm a passionate and driven **Software Developer** from Medellin, Colombia 🇨�
 I'm always open to collaborating on exciting projects, especially if they involve:
 
 - **Open Source Contributions** 🛠️
-- **Mobile App Development** 📱
+- **Mobile App Developments** 📱
 - **Web Development (Front-end & Back-end)** 🌐
 
 Feel free to reach out if you're interested in collaborating or have a unique idea you'd like to discuss.
